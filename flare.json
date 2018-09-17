@@ -74,7 +74,7 @@
       {"name": "JSONConverter", "size": 2220}
      ]
     },
-    {"name": "DataField", "size": 1759},
+    {"name": "Subtopic", "size": 1759},
     {"name": "DataSchema", "size": 2165},
     {"name": "DataSet", "size": 586},
     {"name": "DataSource", "size": 3331},
